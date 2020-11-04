@@ -1,0 +1,37 @@
+.contact_form tr {
+    height: 7rem;
+}
+
+.contact_form {
+    margin-bottom: 3rem;
+}
+
+.contact_form th {
+    width: 150px;
+}
+
+.contact_form td input[type="text"], input[type="email"] {
+    width: 480px;
+}
+
+.contact_form textarea {
+    height: 7rem;
+    width: 480px;
+}
+
+.submit_btn {
+    font-size: 2.5rem;
+    color: #fff;
+    background: #42a0b0;
+    border-style: none;
+    padding: 1rem;
+    
+}
+
+.submit_btn:hover {
+    opacity: 70%;
+}
+
+.submit_area {
+    text-align: center;
+}
